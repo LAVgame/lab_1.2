@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TJmv6I9TJJkTeTqQHJ5x5dtCm8YdRh3ePtblOTvqDfTYJ6zmLJ103yqOOpBa1vivGBC3OcFK2nUS7/k7+sM7mA==",
+  "dgSpecHash": "Yd7K/4o0DWLFgxzPWcrgX+sIHNvVNjSF6n20+5sOvWAJ250Slo6AXmjTLW2TQidXji+hnBvCToxtvckibww00Q==",
   "success": true,
-  "projectFilePath": "E:\\ИВТ-б-о-22-1\\Прогграммирование на Python\\2\\Lab_2\\2\\2.csproj",
+  "projectFilePath": "E:\\ИВТ-б-о-22-1\\Прогграммирование на Python\\2\\lab_1.2\\Lab_2\\2\\2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Student\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
   ],

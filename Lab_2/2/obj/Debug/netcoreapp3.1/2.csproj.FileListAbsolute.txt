@@ -12,3 +12,17 @@ E:\ИВТ-б-о-22-1\Прогграммирование на Python\2\Lab_2\2\ob
 E:\ИВТ-б-о-22-1\Прогграммирование на Python\2\Lab_2\2\obj\Debug\netcoreapp3.1\2.dll
 E:\ИВТ-б-о-22-1\Прогграммирование на Python\2\Lab_2\2\obj\Debug\netcoreapp3.1\2.pdb
 E:\ИВТ-б-о-22-1\Прогграммирование на Python\2\Lab_2\2\obj\Debug\netcoreapp3.1\2.genruntimeconfig.cache
+E:\ИВТ-б-о-22-1\Прогграммирование на Python\2\lab_1.2\Lab_2\2\bin\Debug\netcoreapp3.1\2.exe
+E:\ИВТ-б-о-22-1\Прогграммирование на Python\2\lab_1.2\Lab_2\2\bin\Debug\netcoreapp3.1\2.deps.json
+E:\ИВТ-б-о-22-1\Прогграммирование на Python\2\lab_1.2\Lab_2\2\bin\Debug\netcoreapp3.1\2.runtimeconfig.json
+E:\ИВТ-б-о-22-1\Прогграммирование на Python\2\lab_1.2\Lab_2\2\bin\Debug\netcoreapp3.1\2.runtimeconfig.dev.json
+E:\ИВТ-б-о-22-1\Прогграммирование на Python\2\lab_1.2\Lab_2\2\bin\Debug\netcoreapp3.1\2.dll
+E:\ИВТ-б-о-22-1\Прогграммирование на Python\2\lab_1.2\Lab_2\2\bin\Debug\netcoreapp3.1\2.pdb
+E:\ИВТ-б-о-22-1\Прогграммирование на Python\2\lab_1.2\Lab_2\2\obj\Debug\netcoreapp3.1\2.csproj.AssemblyReference.cache
+E:\ИВТ-б-о-22-1\Прогграммирование на Python\2\lab_1.2\Lab_2\2\obj\Debug\netcoreapp3.1\2.GeneratedMSBuildEditorConfig.editorconfig
+E:\ИВТ-б-о-22-1\Прогграммирование на Python\2\lab_1.2\Lab_2\2\obj\Debug\netcoreapp3.1\2.AssemblyInfoInputs.cache
+E:\ИВТ-б-о-22-1\Прогграммирование на Python\2\lab_1.2\Lab_2\2\obj\Debug\netcoreapp3.1\2.AssemblyInfo.cs
+E:\ИВТ-б-о-22-1\Прогграммирование на Python\2\lab_1.2\Lab_2\2\obj\Debug\netcoreapp3.1\2.csproj.CoreCompileInputs.cache
+E:\ИВТ-б-о-22-1\Прогграммирование на Python\2\lab_1.2\Lab_2\2\obj\Debug\netcoreapp3.1\2.dll
+E:\ИВТ-б-о-22-1\Прогграммирование на Python\2\lab_1.2\Lab_2\2\obj\Debug\netcoreapp3.1\2.pdb
+E:\ИВТ-б-о-22-1\Прогграммирование на Python\2\lab_1.2\Lab_2\2\obj\Debug\netcoreapp3.1\2.genruntimeconfig.cache
