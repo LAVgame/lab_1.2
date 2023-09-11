@@ -15,37 +15,27 @@ namespace _2
             float v = Convert.ToSingle(Console.ReadLine());
             Console.Write("Введите число C = ");
             float c = Convert.ToSingle(Console.ReadLine());
-            Console.WriteLine(" ");
-            Console.WriteLine($"A + Б = {a+b}");
-            Console.WriteLine($"A - Б = {a-b}");
-            Console.WriteLine($"A x Б = {a*b}");
-            Console.WriteLine($"A : Б = {a/b:0.00}");
-            Console.WriteLine(" ");
-            Console.WriteLine($"A + B = {a + v}");
-            Console.WriteLine($"A - B = {a - v}");
-            Console.WriteLine($"A x B = {a * v}");
-            Console.WriteLine($"A : B = {a / v:0.00}");
-            Console.WriteLine(" ");
-            Console.WriteLine($"В + Б = {v + b}");
-            Console.WriteLine($"В - Б = {v - b}");
-            Console.WriteLine($"В x Б = {v * b}");
-            Console.WriteLine($"В : Б = {v / b:0.00}");
-            Console.WriteLine(" ");
-            Console.WriteLine($"C + Б = {c + b}");
-            Console.WriteLine($"C - Б = {c - b}");
-            Console.WriteLine($"C x Б = {c * b}");
-            Console.WriteLine($"C : Б = {c / b:0.00}");
-            Console.WriteLine(" ");
-            Console.WriteLine($"C + B = {c + v}");
-            Console.WriteLine($"C - B = {c - v}");
-            Console.WriteLine($"C x B = {c * v}");
-            Console.WriteLine($"C : B = {c / v:0.00}");
-            Console.WriteLine(" ");
-            Console.WriteLine($"A + C = {a + c}");
-            Console.WriteLine($"A - C = {a - c}");
-            Console.WriteLine($"A x C = {a * c}");
-            Console.WriteLine($"A : C = {a / c:0.00}");
+            Console.WriteLine($"A + Б = {Add(a,b)}");
+            Console.WriteLine($"A - Б = {Min(a,b)}");
+            Console.WriteLine($"A x Б = {Myl(a,b)}");
+            Console.WriteLine($"A : Б = {Del(a,b)}");
             Console.ReadLine();
+        }
+        public static float Add(float a, float b) 
+        {
+            return a + b;      
+        }
+        public static float Min(float a, float b)
+        {
+            return a - b;
+        }
+        public static float Myl(float a, float b)
+        {
+            return a * b;
+        }
+        public static float Del(float a, float b)
+        {
+            return a / b;
         }
     }
 }
