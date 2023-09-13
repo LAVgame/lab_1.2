@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ppxWJPApv7kCrKQjng34uyfNOwebEB4CBNV2Un0qnrr19uiRhreIKxuFn6/BeNQEcNKM1PLUbGC/32FUbh6rTg==",
+  "success": true,
+  "projectFilePath": "I:\\ИВТ-б-о-22-1\\Прогграммирование на Python\\2\\lab_1.2\\2\\2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vipal\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\vipal\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\vipal\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\vipal\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
